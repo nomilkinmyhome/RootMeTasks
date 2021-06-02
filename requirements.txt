@@ -7,4 +7,4 @@ lxml==4.5.0
 PyJWT==1.7.1
 requests==2.23.0
 soupsieve==2.0
-urllib3==1.25.8
+urllib3==1.26.5
