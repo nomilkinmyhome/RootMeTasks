@@ -4,7 +4,7 @@ certifi==2019.11.28
 chardet==3.0.4
 idna==2.9
 lxml==4.5.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 requests==2.23.0
 soupsieve==2.0
 urllib3==1.25.8
